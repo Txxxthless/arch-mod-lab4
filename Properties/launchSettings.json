@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ak_lab4": {
+      "commandName": "Project",
+      "commandLineArgs": "D:/lab4/ D:/lab4_cfolder/"
+    }
+  }
+}
